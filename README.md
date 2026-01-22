@@ -1,47 +1,122 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmymapss%2Fportfolio)
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+My personal portfolio website showcasing my work as a Frontend Developer. Built with modern web technologies and deployed on Vercel.
 
-# Features
+🔗 **Live Site:** [portfolio-myjobs-projects.vercel.app](https://portfolio-myjobs-projects.vercel.app/)
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+## About
 
-# Getting Started Locally
+Frontend Developer specializing in React, Next.js, and TypeScript. This portfolio highlights my professional experience, projects, and technical skills in building scalable, high-performance web applications.
 
-1. Clone this repository to your local machine:
+## Tech Stack
 
-   ```bash
-   git clone https://github.com/mymapss/portfolio.git
-   ```
+- **Framework:** Next.js 14
+- **Language:** TypeScript
+- **Styling:** TailwindCSS
+- **UI Components:** Shadcn/UI, Magic UI
+- **Animations:** Framer Motion
+- **Deployment:** Vercel
 
-2. Move to the cloned directory
+## Features
 
-   ```bash
-   cd portfolio
-   ```
+- ⚡ Blazing fast performance with Next.js 14
+- 📱 Fully responsive design for all devices
+- 🎨 Modern UI with Shadcn/UI and Magic UI components
+- ✨ Smooth animations with Framer Motion
+- 📝 Integrated blog section
+- 🔧 Easy configuration through a single config file
+- 🚀 Optimized for Vercel deployment
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18+ installed
+- pnpm package manager
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/mymapss/portfolio.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd portfolio
+```
 
 3. Install dependencies:
+```bash
+pnpm install
+```
 
-   ```bash
-   pnpm install
-   ```
+4. Start the development server:
+```bash
+pnpm dev
+```
 
-4. Start the local Server:
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-   ```bash
-   pnpm dev
-   ```
+## Configuration
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+All content can be easily customized by editing the main configuration file:
 
-# License
+```bash
+src/data/resume.tsx
+```
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+This file contains:
+- Personal information
+- Work experience
+- Projects
+- Skills
+- Education
+- Contact details
+
+Simply update the data in this file to personalize the portfolio with your own information.
+
+## Deployment
+
+The easiest way to deploy is using Vercel:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmymapss%2Fportfolio)
+
+Or manually:
+
+1. Push your changes to GitHub
+2. Import your repository in Vercel
+3. Deploy with one click
+
+## Project Structure
+
+```
+portfolio/
+├── public/          # Static assets (images, videos)
+├── src/
+│   ├── app/         # Next.js app directory
+│   ├── components/  # React components
+│   │   ├── ui/      # UI components (Shadcn/UI)
+│   │   └── section/ # Section components
+│   └── data/        # Configuration and content
+│       └── resume.tsx
+├── package.json
+└── README.md
+```
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Contact
+
+Feel free to reach out for collaborations or opportunities!
+
+- Portfolio: [portfolio-myjobs-projects.vercel.app](https://portfolio-myjobs-projects.vercel.app/)
+- GitHub: [@mymapss](https://github.com/mymapss)
+
+---
+
+Built with ❤️ using Next.js and deployed on Vercel
