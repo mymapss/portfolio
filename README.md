@@ -1,6 +1,8 @@
 # Portfolio
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmymapss%2Fportfolio)
+<div align="center">
+  <video src="public/portfolio.mp4" width="100%" />
+</div>
 
 My personal portfolio website showcasing my work as a Frontend Developer. Built with modern web technologies and deployed on Vercel.
 
