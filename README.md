@@ -1,7 +1,7 @@
 # Portfolio
 
 <div align="center">
-  <img alt="Portfolio Demo" src="https://github.com/user-attachments/assets/56392b1f-3698-4a9e-a5ec-fb8769c7f1dc" width="90%">
+  <img alt="Portfolio Demo" src="https://github.com/user-attachments/assets/c5c13a40-0d92-4cef-b6c6-d82334dee8b0" width="90%">
 </div>
 
 My personal portfolio website showcasing my work as a Frontend Developer. Built with modern web technologies and deployed on Vercel.
